@@ -9,16 +9,16 @@
 + Fiabilidad: Funciona de manera correcta en distintos contextos
 
 ### Assurance
-+ Garantia:
+Garantia:
 * Cumple con las expectativas
 * Funciona correctamente
 * No presenta problemas
 
 ### Software Testing
-+ Garantizar la calidad de un producto antes de que llegue a los usuarios finales
+Garantizar la calidad de un producto antes de que llegue a los usuarios finales
 
 ### Objetivo principal
-+ Prevenir los errores en el desarrollo
+Prevenir los errores en el desarrollo
 
 ### Caracteristicas claves del QA
 + Es un proceso preventivo
