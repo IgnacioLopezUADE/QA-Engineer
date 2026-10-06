@@ -1,5 +1,9 @@
 # 👨‍💻 QA Engineer
 
+# 🖐️ Testing Manual 
+
+---
+
 ## ✅ Quality Assurance
 
 ### ❓ ¿Qué es el control de calidad?
